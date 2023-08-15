@@ -1,6 +1,0 @@
- 
-{{#user}
-Name: Manushresth yadav
-Skills: HTML, CSS, Tailwind css, JS, React.js ,MongoDb , ExpressJs , Nodejs , MySql(basics), Currently learning NextJs 
-Email: manushresth.official24669@gmail.com
-{{/user}}
